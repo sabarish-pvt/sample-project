@@ -1,0 +1,18 @@
+# Python Project
+
+## Description
+A Python project for learning and practicing Python concepts.
+
+## Files
+
+- `main.py` - Main program
+- `variables.py` - Python variables examples
+- `operators.py` - Operators examples
+- `loops.py` - Loop examples
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sabarish-pvt/sample.git
